@@ -8,7 +8,7 @@
 5. 推送该明星掌柜的信息给当前粉丝，包括但不限二维码，V店信息，个人介绍等。
 
 ##实现流程图
-![流程图](https://attachments.tower.im/tower/aabc6a28b73e4b078e138f3cac94abc8?filename=%E5%9C%B0%E7%90%86%E4%BD%8D%E7%BD%AE%E5%BC%80%E5%8F%91.png)
+![流程图](http://7u2ps7.com1.z0.glb.clouddn.com/geo.png)
 
 ##其他事项
 1. 需要百度地图API做经纬度与地址的转换
